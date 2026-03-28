@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "an-alternate-ranger",
+  "title": "An Alternate Ranger",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An alternate take on the Ranger class for Pathfinder Second Edition, featuring improved hunter's edges and updates to the class's feats, features, and Vindicator class archetype.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "an-alternate-ranger",
+      "label": "An Alternate Ranger",
+      "path": "packs/an-alternate-ranger",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/Cd-dsie_mZwg"
 }
